@@ -1,0 +1,22 @@
+{
+    "name": "My Token",
+    "symbol": "MTK",
+    "description": "My token description",
+    "image": "https://github.com/RiyaGanesh123/blancooo/blob/main/Tata_AIG_Motor_Policy_Schedule_3184_6202540909%20(1)-1.png",
+    "external_url": "https://mytoken.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://github.com/RiyaGanesh123/blancooo/blob/main/Tata_AIG_Motor_Policy_Schedule_3184_6202540909%20(1)-1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "token",
+        "creator_name": "John Doe",
+        "socials": {
+            "website": "https://mytoken.com",
+            "twitter": "https://twitter.com/mytoken",
+            "telegram": "https://t.me/mytoken"
+        }
+    }
+}
